@@ -167,6 +167,10 @@
 .detail{
     width: 500px;
   }
+.rpara{
+  font-size: 2.2rem;
+  color: #737373;
+}
   .domain{
       background-color:#f7f7f7 ;
       margin: 30px 10px;
