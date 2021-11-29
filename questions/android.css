@@ -32,6 +32,7 @@ body{
   font-size: var(--normal-font-size);
   transition: .5s;
   animation: theme 21s linear infinite;
+  overflow-y: auto;
 }
 
 a{

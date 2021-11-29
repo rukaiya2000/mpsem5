@@ -457,3 +457,7 @@ svg {
   left: 0;
   will-change: transform;
 }
+.topPara{
+  font-size: 1.3rem;
+  color: #444444;
+  }
